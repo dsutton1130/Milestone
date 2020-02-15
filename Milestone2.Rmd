@@ -1,0 +1,25 @@
+---
+title: "Milestone 2"
+author: "David Sutton"
+date: "2/14/2020"
+output: html_document
+repo url: https://github.com/dsutton1130/Milestone.git
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+**Past Year Projects Pros & Cons**
+
+The first GOV 1005 Final Project I am looking at is from the Fall of 2019. Anan Hafez's "An Analysis of 3-Pointers in the NBA" analyzes some components of the NBA's proliferation of 3-point shots. As an avid sports fan, this project caught my eye. I particularly like Anan's detailed explanation of how accurately shooting 3-pointers is more efficient for players who can shoot threes at a high-enough percentage (like Steph Curry). This project does a good job of explaining enough basketball to convey the importance of threes to those who are otherwise in the dark about the NBA. One criticism I have of the project is that it fails discuss a three-year period during which the NBA moved the three-point line closer, to combat low scoring across the league, which began with the 1994-1995 season. This three-year period could have served as a useful sort of natural experiment for Anan's project, especially regarding the potential impact threes made has a player salary, a point Anan raises but doesn't do enough to adequately address.
+
+
+The second project which drew my interest was Dominic Skinnion's "Whom Does the Electoral College Benefit?". As a Ph.D. student who studies American Government and Politics (specifically, elections) in the Department of Government, I was very curious to see what this project would look like. I think the box plots in the project are useful for conveying some of the data quickly and clearly. Even with what seemed to me to be a quick look and discussion, the box plots still informed me of Dominic's analysis of the data. My one criticism of the project is a minor one. Dominic writes:
+
+*Per political historians, it is widely believed that there was a party realignment during the Presidency of Franklin D. Roosevelt. As such, the comparisons made between the Democratic and Republican Parties only include the years from 1932 to 2016.*
+
+My issue with this statement is that although in theory it makes sense to limit the comparison to *a* time period, the reasoning here doesn't make a solid case for doings so from 1932 to 2016. While there was party realignment, I would argue that it was an ongoing process during FDR's presidency. And it was a process which continued, in some ways, into the late 20th century. An explanation of the importance of this detail is warranted in a project like this.
+
+
+
