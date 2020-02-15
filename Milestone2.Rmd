@@ -22,4 +22,5 @@ The second project which drew my interest was Dominic Skinnion's "Whom Does the 
 My issue with this statement is that although in theory it makes sense to limit the comparison to *a* time period, the reasoning here doesn't make a solid case for doings so from 1932 to 2016. While there was party realignment, I would argue that it was an ongoing process during FDR's presidency. And it was a process which continued, in some ways, into the late 20th century. An explanation of the importance of this detail is warranted in a project like this.
 
 
+Note: Repo link is located in the Rmd file.
 
